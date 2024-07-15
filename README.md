@@ -17,7 +17,7 @@ of the incident.
 ### Part IV: Storytelling
 - Provide the three most surprising or interesting findings from the analysis
 ## License
-This project, DataBreachAnalytics, is a final project in fulfillment of the course Business Analytics and Data Mining. The contents of this repository are provided under the following terms:
+This project, DataBreachAnalytics, is a final project in fulfillment of the course *Business Analytics and Data Mining*. The contents of this repository are provided under the following terms:
 -  The Project or substantial portions thereof must not be used for any course-related activities or submissions in other academic settings or institutions without proper attribution to the
 original authors and the course Business Analytics and Data Mining.
 - Any derivative work or publication resulting from the use of the Project must acknowledge its origin and provide a citation to this repository.
